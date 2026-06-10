@@ -1,16 +1,12 @@
-## Hi there 👋
+# 🚀 Hello, I'm Sunkyu Park
 
-<!--
-**sean021004/sean021004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+* 🎓 **Education:** [학교 및 전공 입력]
+* 🎯 **Focus Areas:** [관심 있는 연구나 공부 분야]
+* 💻 **Projects:** [진행했던 주요 프로젝트나 다루고 있는 도메인]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### 💾 Languages & Frameworks
+* **Languages:** Python, SQL
+* **Data Science / ML:** Pandas, NumPy, Scikit-learn
+* **Dev Tools:** Git, GitHub
