@@ -4,6 +4,6 @@ I'm an undergraduate student majoring in Economics and double majoring in Statis
 Please feel free to contact me at: 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Languages:** Python, SQL, R
 * **Tools:** Pandas, NumPy, Scikit-learn
