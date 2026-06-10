@@ -1,12 +1,9 @@
-# 🚀 Hello, I'm Sunkyu Park
+## Hello👋, I'm Sunkyu Park
+I'm an undergraduate student majoring in Economics and double majoring in Statistics, interested about Motorsport Data Analysis, Race Strategy Optimization.
 
-## 💡 About Me
-* 🎓 **Education:** [학교 및 전공 입력]
-* 🎯 **Focus Areas:** [관심 있는 연구나 공부 분야]
-* 💻 **Projects:** [진행했던 주요 프로젝트나 다루고 있는 도메인]
+Please feel free to contact me at: 
+
 
 ## 🛠️ Tech Stack
-### 💾 Languages & Frameworks
-* **Languages:** Python, SQL
-* **Data Science / ML:** Pandas, NumPy, Scikit-learn
-* **Dev Tools:** Git, GitHub
+* **Languages:** Python, SQL, R
+* **Tools:** Pandas, NumPy, Scikit-learn
